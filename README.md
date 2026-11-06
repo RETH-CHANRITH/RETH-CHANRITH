@@ -7,21 +7,6 @@
   ☘️ Always learning, always building.
 </p>
 
-<p align="center">
-  <a href="https://reth-chanrith.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-reth--chanrith.vercel.app-00ffa3?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-  <a href="https://reth-chanrith.vercel.app/assets/Reth_Chanrith_CV.pdf">
-    <img src="https://img.shields.io/badge/📄_Resume-Download_CV-6366f1?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chan-rith-323282300/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/mechanrith">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
