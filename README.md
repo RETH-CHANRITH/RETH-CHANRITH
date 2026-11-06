@@ -114,6 +114,10 @@ Here are some of the projects I've worked on:
   <a href="https://www.instagram.com/chan_rith_xie">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+   </a>
+  <a href="https://reth-chanrith.vercel.app/assets/Reth_Chanrith_CV.pdf">
+    <img src="https://img.shields.io/badge/📄_Resume-Download_CV-6366f1?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
